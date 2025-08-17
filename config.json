@@ -1,0 +1,3 @@
+{
+  "AS_CONNECTION": "mssql+pyodbc://sa:SaSa111@DESKTOP-LC1A93K\\ASACC/TradeDB_I?driver=ODBC+Driver+17+for+SQL+Server"
+}
